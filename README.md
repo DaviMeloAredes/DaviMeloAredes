@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 >   learning: ["javascript", "node.JS", "discord.JS"],
 >   personal_info: {
 >     name: "Davi",
->     lang: "pt-br/en",
->     country: "brazil",
+>     lang: "PT-BR/EN",
+>     country: "Brazil",
 >     contact: { "discord": "davi .#7338" },
 >   }
 >  }
