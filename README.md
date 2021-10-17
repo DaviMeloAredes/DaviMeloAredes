@@ -5,6 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning JavaScript (Node.JS)
-- 🌎 From Brazil
 -->
+
+```javascript 
+> const user = {
+>   id: 5515,
+>   learning: ["javascript", "node.JS", "discord.JS"],
+>   personal_info: {
+>     name: "Davi",
+>     lang: "pt-br/en",
+>     country: "brazil",
+>     contact: { "discord": "davi .#7338" },
+>   }
+>  }
+
