@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ```javascript 
 > const user = {
 >   id: 5515,
->   learning: ["javascript", "node.JS", "discord.JS"],
+>   learning: ["typescript", "node.JS", "discord.JS"],
 >   personal_info: {
 >     name: "Davi",
 >     lang: "PT-BR/EN",
